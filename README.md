@@ -7,12 +7,12 @@
 # 研发过程
 - 边缘端和云端协同的体系架构
 - 基于应用场景的视频智能分析技术及城市治理决策分析模型
-  - [人脸识别](https://github.com/guomxin/city-video-analysis/blob/master/face-recog.md)
-  - [非机动车违停检测](https://github.com/guomxin/city-video-analysis/blob/master/novehicle-detect.md)
-  - [水位识别](https://github.com/guomxin/city-video-analysis/blob/master/water-level-recog.md)
+  - [人脸识别](https://github.com/guomxin/city-video-analysis/blob/master/R&D/face-recog.md)
+  - [非机动车违停检测](https://github.com/guomxin/city-video-analysis/blob/master/R&D/novehicle-detect.md)
+  - [水位识别](https://github.com/guomxin/city-video-analysis/blob/master/R&D/water-level-recog.md)
   - 安全帽检测
 - 集数据标注、模型结构定义、模型训练、模型验证一体化的测试验证环境
 - 应用示范
 # 项目资料
-- [视频图片训练数据](https://github.com/guomxin/city-video-analysis/blob/master/data.md)
+- [视频图片训练数据](https://github.com/guomxin/city-video-analysis/blob/master/resources/data.md)
 # 项目成果
