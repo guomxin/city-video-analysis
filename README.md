@@ -10,7 +10,7 @@
   - [人脸识别](https://github.com/guomxin/city-video-analysis/blob/master/R&D/face-recog.md)
   - [非机动车违停检测](https://github.com/guomxin/city-video-analysis/blob/master/R&D/novehicle-detect.md)
   - [水位识别](https://github.com/guomxin/city-video-analysis/blob/master/R&D/water-level-recog.md)
-  - 安全帽检测
+  - [安全帽检测](https://github.com/guomxin/city-video-analysis/blob/master/R&D/safety-helmet-wearing.md)
 - 集数据标注、模型结构定义、模型训练、模型验证一体化的测试验证环境
 - 应用示范
 # 项目资料
