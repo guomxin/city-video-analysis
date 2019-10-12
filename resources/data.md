@@ -4,16 +4,16 @@
 
 ### 人脸数据
 
-10.10.50.207服务器：**/mnt/disk01/images/face**
+10.10.50.207服务器：**/mnt/disk03/cityVideoAI/04 Face**
 
 
 
 ### 安全帽数据
 
-10.10.50.207服务器：**/mnt/disk01/images/anquanmao**
+10.10.50.207服务器：**/mnt/disk03/cityVideoAI/08 SafetyHelmet**
 
 
 
 ### 渣土车数据
 
-10.10.50.207服务器：**/mnt/disk01/images/zhatuche**
+10.10.50.207服务器：**/mnt/disk03/cityVideoAI/01 Vehicle/zhatuche**
