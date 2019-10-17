@@ -4,7 +4,7 @@
 
 ### 人脸数据
 
-10.10.50.207服务器：**/mnt/disk03/cityVideoAI/04 Face**
+10.10.50.207服务器：**/mnt/disk03/cityVideoAI/人脸**
 
 
 | 数据集            | 描述                                                         |
@@ -19,10 +19,10 @@
 
 ### 安全帽数据
 
-10.10.50.207服务器：**/mnt/disk03/cityVideoAI/08 SafetyHelmet**
+10.10.50.207服务器：**/mnt/disk03/cityVideoAI/安全帽**
 
 
 
 ### 渣土车数据
 
-10.10.50.207服务器：**/mnt/disk03/cityVideoAI/01 Vehicle/zhatuche**
+10.10.50.207服务器：**/mnt/disk03/cityVideoAI/01 Vehicle/渣土车**
