@@ -6,7 +6,7 @@
 按时间倒序排列
 ## 2019/10/08-2019/10/12
 
-1.207服务器安装cuda9.0，与cuda9.2并存，更改 /etc/profile，sorce使之生效；
+1.207服务器安装cuda9.0，与cuda9.2并存，更改 /etc/profile，source使之生效；
 
 2.安装tensorflow-gpu==1.12，cuda9.0与tensorflow-gpu==1.12版本匹配，cuda9.2没有可用的tensorflow-gpu版本；
 
