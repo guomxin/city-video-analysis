@@ -26,3 +26,8 @@
 ### 渣土车数据
 
 10.10.50.207服务器：**/mnt/disk03/cityVideoAI/01 Vehicle/渣土车**
+
+
+### 人群计数数据   
+10.10.50.207服务器：**/mnt/disk03/cityVideoAI/mall_dataset**   
+10.10.50.207服务器：**/mnt/disk03/cityVideoAI/公交站台**   
