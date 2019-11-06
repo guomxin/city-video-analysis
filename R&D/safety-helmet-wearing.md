@@ -4,8 +4,10 @@
 
 # 目前进展
 
-项目地址：**/code/dfb/detect/Safety-Helmet-Wearing**
+项目地址：**/code/dfb/detect/Safety-Helmet-Wearing**   
 
+模型开发阶段完成   
+模型测试阶段完成   
 
 
 # 每周进展
