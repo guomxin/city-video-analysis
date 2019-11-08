@@ -11,7 +11,7 @@
 
 [车站一](https://github.com/guomxin/city-video-analysis/blob/master/R%26D/images/station1.jpg)
 
-
+![image](https://github.com/guomxin/city-video-analysis/blob/master/R%26D/images/station1.jpg)
 # 每周进展
 
 ### 2019/10/29-2019/11/04  
