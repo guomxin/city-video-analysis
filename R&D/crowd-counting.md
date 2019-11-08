@@ -9,9 +9,22 @@
 
 
 
-[车站一](https://github.com/guomxin/city-video-analysis/blob/master/R%26D/images/station1.jpg)
+### 车站一   
 
-![image](https://github.com/guomxin/city-video-analysis/blob/master/R%26D/images/station1.jpg)
+![image](https://github.com/guomxin/city-video-analysis/blob/master/R%26D/images/station1.jpg)   
+
+### 车站二   
+
+![image](https://github.com/guomxin/city-video-analysis/blob/master/R%26D/images/station2.jpg)   
+
+
+当前场景的识别查准率为：   
+
+| **总人数**       | **347**   |
+| ---------------- | --------- |
+| **识别出的人数** | **295**   |
+| **查全率**       | **85.0%** |
+
 # 每周进展
 
 ### 2019/10/29-2019/11/04  
