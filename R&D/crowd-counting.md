@@ -10,7 +10,7 @@
 
 #### 车站一   
 
-![公交车站示例一](https://github.com/guomxin/city-video-analysis/blob/master/R%26D/images/station1.jpg )   
+![公交车站示例一](https://github.com/guomxin/city-video-analysis/blob/master/R%26D/images/station1.jpg 400*500)   
 
 #### 车站二   
 
