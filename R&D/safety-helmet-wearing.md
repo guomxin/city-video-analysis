@@ -6,13 +6,30 @@
 
 项目地址：**/code/dfb/detect/Safety-Helmet-Wearing**   
 
-模型开发阶段完成   
-模型测试阶段完成   
+模型开发阶段完成  ，模型测试阶段完成   
 
-效果图如下： 
+## 效果图
+
 其中红色画框表示佩戴了安全帽，浅蓝色画框表示未佩戴安全帽
-![image](https://github.com/guomxin/city-video-analysis/blob/master/R%26D/images/safe1.jpg)   
-![image](https://github.com/guomxin/city-video-analysis/blob/master/R%26D/images/safe2.jpg)
+
+#### 安全帽一
+
+![image](https://github.com/guomxin/city-video-analysis/blob/master/R%26D/images/safety_helmet1.jpg)   
+
+#### 安全帽二
+
+![image](https://github.com/guomxin/city-video-analysis/blob/master/R%26D/images/safety_helmet2.jpg)
+
+## 数据集
+
+数据集存放路径：/mnt/disk03/cityVideoAI/安全帽
+
+## 查准率
+
+|                  | 查准率 | 查全率 |
+| ---------------- | ------ | ------ |
+| **佩戴安全帽**   | 96.7%  | 92.2%  |
+| **未佩戴安全帽** | 100%   | 71.1%  |
 
 # 每周进展
 
