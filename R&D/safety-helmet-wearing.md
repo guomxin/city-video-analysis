@@ -22,7 +22,11 @@
 
 ## 数据集
 
-数据集存放路径：/mnt/disk03/cityVideoAI/安全帽
+数据集存放路径：/mnt/disk03/cityVideoAI/安全帽   
+
+## 模型框架
+模型：YOLOv3   
+框架：mxnet,gluoncv
 
 ## 测试结果
 
