@@ -1,4 +1,4 @@
-# [简介]()
+# [简介]
 
 人群计数：检测出某个场景的人数，通过效果图展示
 
@@ -13,8 +13,8 @@
 
 
 #### 车站二   
+<img src="https://github.com/guomxin/city-video-analysis/blob/master/R%26D/images/station2.jpg" width="60%">
 
-![公交车站示例二](https://github.com/guomxin/city-video-analysis/blob/master/R%26D/images/station2.jpg )   
 
 ## 数据集
 
