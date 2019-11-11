@@ -10,11 +10,11 @@
 
 #### 车站一   
 
-![公交车站示例一](https://github.com/guomxin/city-video-analysis/blob/master/R%26D/images/station1.jpg =400*500)   
+![公交车站示例一](https://github.com/guomxin/city-video-analysis/blob/master/R%26D/images/station1.jpg)   
 
 #### 车站二   
 
-![公交车站示例二](https://github.com/guomxin/city-video-analysis/blob/master/R%26D/images/station2.jpg 400*500)   
+![公交车站示例二](https://github.com/guomxin/city-video-analysis/blob/master/R%26D/images/station2.jpg)   
 
 ## 数据集
 
