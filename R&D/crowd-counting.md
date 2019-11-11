@@ -4,26 +4,41 @@
 
 # 目前进展
 
-模型开发已经完整，测试查准率阶段也已经完成，考虑加入热力图中   
-效果图如下：
+模型开发已经完成，测试查准率阶段也已经完成，考虑加入热力图中   
+
+## 效果图
+
+#### 车站一   
+
+![公交车站示例一](https://github.com/guomxin/city-video-analysis/blob/master/R%26D/images/station1.jpg =400*500)   
+
+#### 车站二   
+
+![公交车站示例二](https://github.com/guomxin/city-video-analysis/blob/master/R%26D/images/station2.jpg 400*500)   
+
+## 数据集
+
+数据集一: ../mnt/disk03/cityVideoAI/人群聚集/公交站台 
+
+数据集二: ../mnt/disk03/cityVideoAI/人群聚集/mall_dataset
+
+## 查准率
 
 
 
-### 车站一   
+数据集一：
 
-![image](https://github.com/guomxin/city-video-analysis/blob/master/R%26D/images/station1.jpg)   
+|      总人数      |    347    |
+| :--------------: | :-------: |
+| **识别出的人数** |  **295**  |
+|    **查全率**    | **85.0%** |
 
-### 车站二   
+数据集二：
 
-![image](https://github.com/guomxin/city-video-analysis/blob/master/R%26D/images/station2.jpg)   
-
-
-当前场景的识别查准率为：   
-
-| 总人数           | 347       |
-| ---------------- | --------- |
-| **识别出的人数** | **295**   |
-| **查全率**       | **85.0%** |
+|      总人数      |   62315   |
+| :--------------: | :-------: |
+| **识别出的人数** | **46308** |
+|    **查全率**    | **74.3%** |
 
 # 每周进展
 
@@ -64,5 +79,3 @@
 数据集路径 /mnt/disk03/cityVideoAI/mall_dataset
 
 该数据集选自mall_dataset。是一个商场人群数据集，一共有2000张图像。总人数为62315人，其中模型一共识别出46308人。该数据集采集时镜头较远，有不少人在图像最上方，很难检测出来，还有些人遮挡严重，只能识别成一个。  
-
-
