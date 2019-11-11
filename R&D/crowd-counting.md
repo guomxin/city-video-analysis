@@ -24,7 +24,7 @@
 
 数据集二: ../mnt/disk03/cityVideoAI/人群聚集/mall_dataset
 
-## 查准率
+## 测试结果
 
 
 
