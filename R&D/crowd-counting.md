@@ -11,12 +11,12 @@
 ## 效果图
 
 #### 车站一   
+<img src="https://github.com/guomxin/city-video-analysis/blob/master/R%26D/images/station1.jpg" width="60%">
 
-![公交车站示例一](https://github.com/guomxin/city-video-analysis/blob/master/R%26D/images/station1.jpg =400*500)   
 
 #### 车站二   
+<img src="https://github.com/guomxin/city-video-analysis/blob/master/R%26D/images/station2.jpg" width="60%">
 
-![公交车站示例二](https://github.com/guomxin/city-video-analysis/blob/master/R%26D/images/station2.jpg 400*500)   
 
 ## 数据集
 
