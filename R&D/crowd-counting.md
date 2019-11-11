@@ -25,7 +25,7 @@
 数据集二: ../mnt/disk03/cityVideoAI/人群聚集/mall_dataset
 
 ## 模型框架
-模型：YOLOV3
+模型：YOLOV3   
 框架：tensorflow keras
 
 ## 测试结果
