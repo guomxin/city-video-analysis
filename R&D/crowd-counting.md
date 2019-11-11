@@ -9,8 +9,7 @@
 ## 效果图
 
 #### 车站一   
-
-![公交车站示例一](https://github.com/guomxin/city-video-analysis/blob/master/R%26D/images/station1.jpg =400x300)   
+<img src=“https://github.com/guomxin/city-video-analysis/blob/master/R%26D/images/station1.jpg” style=“width:400px height:500px” /> 
 
 #### 车站二   
 
