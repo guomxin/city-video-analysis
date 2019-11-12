@@ -4,7 +4,7 @@
 
 # 目前进展
 
-项目地址：/code/xdt/people_count/human_counter
+项目地址：http://10.10.50.228:3000/AI/API/src/master/code/python/aisuite/human_counter
 
 模型开发已经完成，测试查准率阶段也已经完成，考虑加入热力图中   
 
@@ -24,9 +24,11 @@
 
 数据集二: ../mnt/disk03/cityVideoAI/人群聚集/mall_dataset
 
-## 查准率
+## 模型框架
+模型：YOLOv3   
+框架：tensorflow keras
 
-
+## 测试结果
 
 数据集一：
 

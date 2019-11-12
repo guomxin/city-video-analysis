@@ -4,7 +4,7 @@
 
 # 目前进展
 
-项目地址：**/code/dfb/detect/Safety-Helmet-Wearing**   
+项目地址：**http://10.10.50.228:3000/AI/API/src/master/code/python/aisuite/Safety-Helmet-Wearing-Dataset-master**   
 
 模型开发阶段完成  ，模型测试阶段完成   
 
@@ -22,9 +22,13 @@
 
 ## 数据集
 
-数据集存放路径：/mnt/disk03/cityVideoAI/安全帽
+数据集存放路径：/mnt/disk03/cityVideoAI/安全帽   
 
-## 查准率
+## 模型框架
+模型：YOLOv3   
+框架：mxnet,gluoncv
+
+## 测试结果
 
 |                  | 查准率 | 查全率 |
 | ---------------- | ------ | ------ |
