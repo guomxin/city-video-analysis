@@ -4,7 +4,7 @@
 
 # 目前进展
 
-项目地址：**/code/dfb/detect/Safety-Helmet-Wearing**   
+项目地址：**http://10.10.50.228:3000/AI/API/src/master/code/python/aisuite/Safety-Helmet-Wearing-Dataset-master**   
 
 模型开发阶段完成  ，模型测试阶段完成   
 
