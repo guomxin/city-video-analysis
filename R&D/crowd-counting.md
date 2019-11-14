@@ -11,11 +11,11 @@
 ## 效果图
 
 #### 车站一   
-<img src="https://github.com/guomxin/city-video-analysis/blob/master/R%26D/images/station1.jpg" width="60%">
+<img src="https://github.com/guomxin/city-video-analysis/blob/master/R%26D/images/station1.png" width="60%">
 
 
 #### 车站二   
-<img src="https://github.com/guomxin/city-video-analysis/blob/master/R%26D/images/station2.jpg" width="60%">
+<img src="https://github.com/guomxin/city-video-analysis/blob/master/R%26D/images/station2.png" width="60%">
 
 
 ## 数据集
