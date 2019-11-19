@@ -22,8 +22,8 @@
 
 ## 数据集
 
-测试集一存放路径：/mnt/disk03/cityVideoAI/安全帽/白天  (总计104张) 
-测试集二存放路径：/mnt/disk03/cityVideoAI/安全帽/安全帽第二期   (总计46张)
+测试集一存放路径：/mnt/disk03/cityVideoAI/安全帽/白天  (总计104张)    
+测试集二存放路径：/mnt/disk03/cityVideoAI/安全帽/安全帽第二期   (总计46张)   
 
 ## 模型框架
 模型：YOLOv3   
