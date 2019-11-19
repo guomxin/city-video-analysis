@@ -20,9 +20,9 @@
 
 ## 数据集
 
-数据集一: ../mnt/disk03/cityVideoAI/人群聚集/公交站台 
+测试集一: ../mnt/disk03/cityVideoAI/人群聚集/公交站台   (2000张)    
 
-数据集二: ../mnt/disk03/cityVideoAI/人群聚集/mall_dataset
+测试集二: ../mnt/disk03/cityVideoAI/人群聚集/mall_dataset   (100张)   
 
 ## 模型框架
 模型：YOLOv3   
