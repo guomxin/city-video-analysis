@@ -39,3 +39,5 @@
 
 采集+裁剪一共有500张训练数据
 
+现在目前得识别效果   
+[](https://github.com/guomxin/city-video-analysis/blob/master/R%26D/images/jinggai.jpg)
