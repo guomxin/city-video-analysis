@@ -38,4 +38,8 @@
 3.初步采集+整理了大约80张图片,通过数据增广、裁剪大约扩展到800张图片,其中有井盖和无井盖之间的比大约为5：3
 
 4.部分效果图如下：   
-![井盖图片](https://github.com/guomxin/city-video-analysis/blob/master/R%26D/images/jinggai1.png)
+![井盖图片1](https://github.com/guomxin/city-video-analysis/blob/master/R%26D/images/jinggai1.png)
+![井盖图片2](https://github.com/guomxin/city-video-analysis/blob/master/R%26D/images/jinggai2.png)
+![井盖图片3](https://github.com/guomxin/city-video-analysis/blob/master/R%26D/images/jinggai3.png)
+![井盖图片4](https://github.com/guomxin/city-video-analysis/blob/master/R%26D/images/jinggai4.png)
+![井盖图片5](https://github.com/guomxin/city-video-analysis/blob/master/R%26D/images/jinggai5.png)
