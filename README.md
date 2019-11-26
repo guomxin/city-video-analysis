@@ -13,7 +13,7 @@
   - [安全帽检测](https://github.com/guomxin/city-video-analysis/blob/master/R&D/safety-helmet-wearing.md)
   - [人群计数](https://github.com/guomxin/city-video-analysis/blob/master/R&D/crowd-counting.md)
   - [井盖溢水检测](https://github.com/guomxin/city-video-analysis/blob/master/R%26D/Manhole%20cover%20overflow.md) 
-  - [井盖检测]()
+  - [井盖检测](https://github.com/guomxin/city-video-analysis/blob/master/R%26D/Manhole%20cover%20inspection.md)
 - 集数据标注、模型结构定义、模型训练、模型验证一体化的测试验证环境
 - 应用示范
 # 项目资料
