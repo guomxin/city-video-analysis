@@ -37,7 +37,11 @@
 
 3.初步采集+整理了大约80张图片,通过数据增广、裁剪大约扩展到800张图片,其中有井盖和无井盖之间的比大约为5：3
 
-4.部分效果图如下：   
+4.
+  现如今的一些问题：(1)识别出现错误的概率很小，但是有些井盖不识别。(2)识别出的物体的置信率过低   
+  可能解决的方案：增大数据集，源数据集只有80张，即使数据增广后也只有800张，还是太少。特征提取不明显。   
+  
+5.部分效果图如下：   
 ![井盖图片1](https://github.com/guomxin/city-video-analysis/blob/master/R%26D/images/jinggai1.png)
 ![井盖图片2](https://github.com/guomxin/city-video-analysis/blob/master/R%26D/images/jinggai2.png)
 ![井盖图片3](https://github.com/guomxin/city-video-analysis/blob/master/R%26D/images/jinggai3.png)
