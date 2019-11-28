@@ -32,7 +32,6 @@
 ## 2019/11/13-2019/11/20
 
 1.本次模型开发继续考虑采用yolo3模型   
-
 2. 数据集来源 :云端收集+网络收集
 
 3.本周主要是进行数据的收集，以及如何增广数据集
@@ -42,5 +41,5 @@
 5.采集+裁剪一共有500张训练数据
 
 现在目前得识别效果   
-![溢水检测](https://github.com/guomxin/city-video-analysis/blob/master/R%26D/images/jinggai.jpg)
+![溢水检测](https://github.com/guomxin/city-video-analysis/blob/master/R%26D/images/jinggai.jpg )
 
