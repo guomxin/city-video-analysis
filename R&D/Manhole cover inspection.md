@@ -8,13 +8,18 @@
 
 项目地址：
 
-模型开发中，现阶段正在处理井盖数据
+模型开发中，现阶段正在处理井盖数据，选取模型
 
 ## 效果图
+![井盖图片1](https://github.com/guomxin/city-video-analysis/blob/master/R%26D/images/jinggai1.png)
+![井盖图片2](https://github.com/guomxin/city-video-analysis/blob/master/R%26D/images/jinggai2.png)
+![井盖图片3](https://github.com/guomxin/city-video-analysis/blob/master/R%26D/images/jinggai3.png)
+![井盖图片4](https://github.com/guomxin/city-video-analysis/blob/master/R%26D/images/jinggai4.png)
+![井盖图片5](https://github.com/guomxin/city-video-analysis/blob/master/R%26D/images/jinggai5.png)
 
 ## 数据集
 
-
+207服务器 /mnt/disk03/CityVideoAI/井盖检测
 
 ## 模型框架
 
@@ -38,7 +43,7 @@
  a.现如今的一些问题：(1)识别出现错误的概率很小，但是有些井盖不识别。(2)识别出的物体的置信率过低         
  b.可能解决的方案：增大数据集，源数据集只有80张，即使数据增广后也只有800张，还是太少。特征提取不明显。        
 5.部分效果图如下：   
-![井盖图片1](https://github.com/guomxin/city-video-analysis/blob/master/R%26D/images/jinggai1.png )
+![井盖图片1](https://github.com/guomxin/city-video-analysis/blob/master/R%26D/images/jinggai1.png)
 ![井盖图片2](https://github.com/guomxin/city-video-analysis/blob/master/R%26D/images/jinggai2.png)
 ![井盖图片3](https://github.com/guomxin/city-video-analysis/blob/master/R%26D/images/jinggai3.png)
 ![井盖图片4](https://github.com/guomxin/city-video-analysis/blob/master/R%26D/images/jinggai4.png)
